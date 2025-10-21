@@ -4,5 +4,9 @@
 
   <p>A cool, dark, low contrast colorscheme. Pastel yet vivid, like a fleeting memory...</p>
 
-  <a href="https://github.com/vague-theme/.github/blob/main/CONTRIBUTING.md">Contributing</a>
+  <p align="center">
+    <a href="https://github.com/vague-theme/.github/blob/main/CONTRIBUTING.md">Contributing</a>
+    ·
+    <a href="https://discord.gg/J3GHfP3kcH">Discord Server</a>
+  </p>
 </div>
