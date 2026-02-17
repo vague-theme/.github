@@ -6,7 +6,7 @@
 
   <p align="center">
     <a href="https://github.com/vague-theme/vague#ports">Ports</a>
-    .
+    ·
     <a href="https://github.com/vague-theme/.github/blob/main/CONTRIBUTING.md">Contributing</a>
     ·
     <a href="https://discord.gg/J3GHfP3kcH">Discord Server</a>
