@@ -15,7 +15,7 @@ check the issues under the [main](https://github.com/vague-theme/vague) reposito
 1. Check for existing requests: Look at the issues in https://github.com/vague-theme/vague
 to see if a port for your target app has already been requested.
 
-2. Generate your new port: Use the [template](https://github.com/vague-theme/template).
+2. Generate your new port: Use this [template](https://github.com/vague-theme/template). You can find the complete color palette in [palette.json](https://github.com/vague-theme/vague/blob/main/palette.json) file.
 
 3. Open an issue for your new port: After creating the port, open an issue in the [main repository](https://github.com/vague-theme/vague)
 using [issue template](https://github.com/vague-theme/vague/issues/new?template=add-theme.yml).
