@@ -1,21 +1,15 @@
-# Contribution guide
+# Reporting Issues or Bugs
 
-Thank you for your interest in contributing to Vague Theme!
+If you find an issue with a specific port, please open an Issue or a Pull Request directly in that port repository.
 
-## Reporting Issues or Bugs
+For general requests, feature ideas, or discussion about new ports, check the Issues under the root [vague](https://github.com/vague-theme/vague) repository.
 
-If you find an issue with a specific port, please open an issue or
-a pull request directly in that port's repository.
+# Contributing a New Port
 
-For general requests, feature ideas, or discussion about ports for specific applications,
-check the issues under the [main](https://github.com/vague-theme/vague) repository.
+1. Generate new port from the [template](https://github.com/vague-theme/template).
 
-## Contributing a New Port
+2. Add necessary theme files. Make sure to follow the color palette, that you can find [here](https://github.com/vague-theme/vague#color-palette).
 
-1. Check for existing requests: Look at the issues in https://github.com/vague-theme/vague
-to see if a port for your target app has already been requested.
+3. Update the README.md file to include usage instructions and preview image.
 
-2. Generate your new port: Use this [template](https://github.com/vague-theme/template). You can find the complete color palette in [palette.json](https://github.com/vague-theme/vague/blob/main/palette.json) file.
-
-3. Open an issue for your new port: After creating the port, open an issue in the [main repository](https://github.com/vague-theme/vague)
-using [issue template](https://github.com/vague-theme/vague/issues/new?template=add-theme.yml).
+3. Open an Issue with request to add your new port in the [vague](https://github.com/vague-theme/vague) repository using [issue template](https://github.com/vague-theme/vague/issues/new?template=add-theme.yml).
